@@ -1,0 +1,2 @@
+Shows errors in all html files:
+html-validate *.html
